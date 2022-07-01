@@ -1,0 +1,4 @@
+# Project exclude paths
+/Contacts/.gradle/
+/Contacts/build/
+/Contacts/build/classes/java/main/
